@@ -1,4 +1,4 @@
-# AI Code Comment Generator
+# Code_Commenter
 
 A web application that automatically generates meaningful comments for code files using AI, featuring a Streamlit frontend for user interaction and a Flask backend for processing.
 
